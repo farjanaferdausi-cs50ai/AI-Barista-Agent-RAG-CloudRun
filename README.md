@@ -119,5 +119,6 @@ Built by Farjana Ferdausi as part of the **Gen AI Academy APAC, Cohort 3**
 Google's official codelab:
 [Deploy a RAG AI Agent in Streamlit using Google ADK and Cloud Run](https://codelabs.developers.google.com/codelabs/cloud-run/build-streamlit-rag-agent-google-adk-cloud-run).
 
-👩‍💻 Author
+👩‍💻 Author:
+
 Farjana Ferdausi Aspiring AI & ML Engineering — Ostad (Batch-6),Bangladesh. Also studying AI Engineering & Data Science at CodeBasics,India. Artificial Intelligence Intern at CodeAlpha,India. Former HR Professional (14+ years) at Radisson Blu Dhaka Water Garden,Bangladesh.
