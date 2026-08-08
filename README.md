@@ -9,6 +9,7 @@ Built while completing Google's official codelab, *"Deploy a RAG AI Agent in
 Streamlit using Google ADK and Cloud Run,"* as part of the **Gen AI Academy APAC
 (Hack2skill × Google Cloud), Cohort 3 — Track 1: Cloud Run + ADK + RAG**.
 
+🌐 Live App Link: https://coffee-barista-827577333549.asia-southeast1.run.app/
 ---
 
 ## What it does
@@ -51,9 +52,9 @@ and answers grounded in real data rather than memorized guesses.
 
 ```
 coffee-barista-agent/
-├── menu.json         # RAG data source: menu items, prices, tags, allergens
+├── menu.json          # RAG data source: menu items, prices, tags, allergens
 ├── agent.py           # ADK LlmAgent + get_menu() tool definition
-├── app.py              # Streamlit chat UI + InMemoryRunner wiring
+├── app.py             # Streamlit chat UI + InMemoryRunner wiring
 ├── requirements.txt   # google-adk, streamlit
 └── README.md
 ```
@@ -63,7 +64,7 @@ coffee-barista-agent/
 ```bash
 pip install -r requirements.txt
 export GOOGLE_GENAI_USE_VERTEXAI=TRUE
-export GOOGLE_CLOUD_PROJECT=<your-gcp-project-id>
+export GOOGLE_CLOUD_PROJECT=<project-852e862b-bbdd-4f9a-bbe>
 export GOOGLE_CLOUD_LOCATION=global
 streamlit run app.py
 ```
@@ -117,3 +118,6 @@ Built by Farjana Ferdausi as part of the **Gen AI Academy APAC, Cohort 3**
 (Hack2skill × Google Cloud), Track 1: *Cloud Run + ADK + RAG*, following
 Google's official codelab:
 [Deploy a RAG AI Agent in Streamlit using Google ADK and Cloud Run](https://codelabs.developers.google.com/codelabs/cloud-run/build-streamlit-rag-agent-google-adk-cloud-run).
+
+👩‍💻 Author
+Farjana Ferdausi Aspiring AI & ML Engineering — Ostad (Batch-6),Bangladesh. Also studying AI Engineering & Data Science at CodeBasics,India. Artificial Intelligence Intern at CodeAlpha,India. Former HR Professional (14+ years) at Radisson Blu Dhaka Water Garden,Bangladesh.
