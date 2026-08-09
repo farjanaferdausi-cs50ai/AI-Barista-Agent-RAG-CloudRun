@@ -12,7 +12,7 @@ Streamlit using Google ADK and Cloud Run,"* as part of the **Gen AI Academy APAC
 🌐 Live App Link: https://coffee-barista-827577333549.asia-southeast1.run.app/
 ---
 
-## What it does
+## Build an AI Agent on Cloud Run with ADK and RAG : What it does
 
 - Answers customer questions about drinks and pastries using natural language.
 - Grounds every recommendation in an actual menu dataset — it will **not**
