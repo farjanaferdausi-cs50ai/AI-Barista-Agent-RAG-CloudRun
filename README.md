@@ -122,4 +122,5 @@ Google's official codelab:
 👩‍💻 Author:
 
 **Farjana Ferdausi** 
+
 **AI Engineering Fellow — Google Cloud Gen AI Academy (Cohort 3) | Agentic AI · RAG · Gemini · ADK · BigQuery MCP · Cloud Run | AI Intern @ CodeAlpha | Former HR Professional (14+ yrs)**
