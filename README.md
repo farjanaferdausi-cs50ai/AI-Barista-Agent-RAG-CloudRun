@@ -121,4 +121,5 @@ Google's official codelab:
 
 👩‍💻 Author:
 
-Farjana Ferdausi Aspiring AI & ML Engineering — Ostad (Batch-6),Bangladesh. Also studying AI Engineering & Data Science at CodeBasics,India. Artificial Intelligence Intern at CodeAlpha,India. Former HR Professional (14+ years) at Radisson Blu Dhaka Water Garden,Bangladesh.
+**Farjana Ferdausi** 
+**AI Engineering Fellow — Google Cloud Gen AI Academy (Cohort 3) | Agentic AI · RAG · Gemini · ADK · BigQuery MCP · Cloud Run | AI Intern @ CodeAlpha | Former HR Professional (14+ yrs)**
