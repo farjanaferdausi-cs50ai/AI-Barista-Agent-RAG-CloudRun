@@ -124,3 +124,5 @@ Google's official codelab:
 **Farjana Ferdausi** 
 
 **AI Engineering Fellow — Google Cloud Gen AI Academy (Cohort 3) | Agentic AI · RAG · Gemini · ADK · BigQuery MCP · Cloud Run | AI Intern @ CodeAlpha | Former HR Professional (14+ yrs)**
+
+Medium blog link : https://medium.com/@farjana.rafi1983/building-a-production-ready-rag-agent-from-first-principles-to-cloud-run-3c59c51bbd3d
